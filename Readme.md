@@ -1,2 +1,2 @@
-CySec by ShapeAi
+CySec by ShapeAi-
 Sangharsh Pipare
